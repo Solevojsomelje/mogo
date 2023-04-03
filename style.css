@@ -267,12 +267,12 @@ h1,h2,h3,h4,h5,h6 {
     margin-bottom: 40px;
 }
 .section--clients{
-    background: url('//pet/images/bg.jpg') center no-repeat;
+    background: url('/pet/images/bg.jpg') center no-repeat;
     background-size: cover;
 
 }
 .section--map{
-    background: url('..//pet/images/mapbg.jpg') center no-repeat;
+    background: url('/pet/images/mapbg.jpg') center no-repeat;
     background-size: cover;
     padding: 40px 0;
 }
