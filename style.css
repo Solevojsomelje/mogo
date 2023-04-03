@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {
 .intro{
     width: 100%;
     height: 100vh;
-    background: url("mogo/images/intro_01.jpg") center no-repeat;
+    background: url("/mogo/images/intro_01.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction:column;
@@ -261,18 +261,18 @@ h1,h2,h3,h4,h5,h6 {
     
 }
 .section--devices{
-    background: url('../pet/images/devicebg2.jpg') center no-repeat;
+    background: url('/mogo/images/devicebg2.jpg') center no-repeat;
     background-size: cover;
     padding-bottom: 0;
     margin-bottom: 40px;
 }
 .section--clients{
-    background: url('../pet/images/bg.jpg') center no-repeat;
+    background: url('/mogo/images/bg.jpg') center no-repeat;
     background-size: cover;
 
 }
 .section--map{
-    background: url('../pet/images/mapbg.jpg') center no-repeat;
+    background: url('/mogo/images/mapbg.jpg') center no-repeat;
     background-size: cover;
     padding: 40px 0;
 }
