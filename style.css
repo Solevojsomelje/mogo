@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {
 .intro{
     width: 100%;
     height: 100vh;
-    background: url("pet/images/intro_01.jpg") center no-repeat;
+    background: url("mogo/images/intro_01.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     flex-direction:column;
